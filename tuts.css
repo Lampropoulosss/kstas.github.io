@@ -1,0 +1,40 @@
+body {
+	background-color: #1f2b2b;
+	color: white;
+	border: 3px solid teal;
+	border-radius: 10px;
+	font-family: Arial;
+}
+h1 {
+	text-align: center;
+	font-size: 3em;
+	text-decoration: underline;
+}
+h2 {
+	font-size: 1.5em;
+	text-align: center;
+}
+.underline {
+	text-decoration: underline;
+}
+p {
+	text-align: center;
+	font-size: 1.2em;
+}
+a {
+	text-decoration: underline;
+	color: white;
+}
+div {
+	text-align: center;
+}
+img {
+	width: 720px;
+	height: 400px;
+	margin: auto;
+	border-radius: 5px;
+	border: 5px solid teal;
+}
+footer {
+	padding: 20px 10px;
+}
